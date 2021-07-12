@@ -1,0 +1,13 @@
+{
+  "name": "get_money_robot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JoaoPauloPrata/triangular_arbitration.git",
+  "author": "JoaoPauloPrata <joaoppcosta@hotmail.com.br>",
+  "license": "MIT",
+  "scripts": {"start": "nodemon index.js"},
+  "dependencies": {
+    "axios": "^0.21.1",
+    "nodemon": "^2.0.12"
+  }
+}
