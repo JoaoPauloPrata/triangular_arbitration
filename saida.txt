@@ -1,0 +1,15 @@
+Não execute 12:35:50 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:35:53 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:35:56 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:35:59 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:36:2 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:36:4 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:36:7 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:36:10 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:36:13 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:36:15 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:36:18 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:36:21 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:45:36 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:45:39 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
+Não execute 12:45:41 - Sequencia de transações: BRL -> ETH -> BRZ -> BRL
